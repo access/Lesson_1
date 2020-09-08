@@ -7,5 +7,5 @@
 * Pärast testi sooritamist näidatakse tulemuse.
 * Rakenduses on võimalus pöörata ekraani.
 
-
+### App example:
 ![Näidis](/example.png "Näidis")
